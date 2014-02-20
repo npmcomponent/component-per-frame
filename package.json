@@ -1,0 +1,9 @@
+{
+  "name": "component-per-frame",
+  "description": "throttle per animation frame",
+  "version": "1.0.0",
+  "dependencies": {
+    "component-raf": "git://github.com/npmcomponent/component-raf.git"
+  },
+  "license": "MIT"
+}

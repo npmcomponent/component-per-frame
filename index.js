@@ -1,4 +1,4 @@
-var raf = require('raf')
+var raf = require('component-raf')
 
 module.exports = function (fn, immediate) {
   var queued = false
